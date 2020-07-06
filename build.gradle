@@ -106,6 +106,7 @@ dependencies {
     compile 'io.gsonfire:gson-fire:1.8.3'
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
     compile 'joda-time:joda-time:2.9.9'
+    compile 'io.kubernetes:client-java:6.0.1'
     testCompile 'junit:junit:4.13'
 }
 
